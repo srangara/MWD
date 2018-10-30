@@ -10,6 +10,10 @@ h2, h3, h4 {
 	font-family: 'Cardo', serif;
 }
 
+li {
+	background-color: rgb(50,50,50);
+}
+
 nav>ul>li {
 	display: inline-block;
 }
