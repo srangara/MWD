@@ -14,6 +14,11 @@ nav>ul>li {
 	display: inline-block;
 }
 
-a {
+a:link, a:visited {
 	color: #0e9952;
+	text-decoration: none;
+}
+a:hover, a:active {
+	color: #1b5;
+	text-decoration: underline;
 }
