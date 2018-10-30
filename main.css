@@ -17,6 +17,10 @@ li {
 
 nav{
 	width: 20em;
+	background-color: #eee;
+}
+nav>ul{
+	height: auto;
 }
 nav>ul>li {
 	display: inline-block;
